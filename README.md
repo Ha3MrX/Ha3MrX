@@ -18,7 +18,7 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="mailto:ha.mrx.93@mail.ru">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
 </a>
 <a href="https://www.youtube.com/@cybersecurity432" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45" />
