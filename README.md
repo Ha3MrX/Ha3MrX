@@ -18,10 +18,10 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="mailto:ha.mrx.93@mail.ru">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="35" width="45" style="filter: invert(100%);" />
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" height="35" />
 </a>
 <a href="https://www.youtube.com/@cybersecurity432" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" alt="YouTube" height="35" width="45" style="filter: brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(0deg);" />
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
 </a>
 </p>
 
