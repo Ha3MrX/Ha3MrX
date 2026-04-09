@@ -2,14 +2,10 @@
 <h3 align="center">🛡️ Cyber Security | Ethical Hacker | Content Creator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Expert;Ethical+Hacker;Kali+Linux+User;Content+Creator" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Ethical+Hacker;Cyber+Security+Expert;Kali+Linux+User;Bug+Bounty+Hunter" />
-</p>
-
-<hr style="border:1px solid #00FF00;">
+---
 
 ## 🧑‍💻 About Me
 <p align="center">
@@ -19,14 +15,14 @@
 🚀 Building my own cyber brand
 </p>
 
-<hr style="border:1px solid #00FF00;">
+---
 
 ## 🧠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash" />
 </p>
 
-<hr style="border:1px solid #00FF00;">
+---
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -38,25 +34,21 @@
   </a>
 </p>
 
-<hr style="border:1px solid #00FF00;">
+---
 
-## 🧨 Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber-Security-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali-Linux-00FF00?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=radical" alt="Ha3MrX's GitHub stats" />
 </p>
 
-<hr style="border:1px solid #00FF00;">
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ha3MrX&theme=chartreuse-dark" />
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ha3MrX&theme=radical" alt="Ha3MrX's streak" />
 </p>
 
-<hr style="border:1px solid #00FF00;">
+
+---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ha3MrX/Ha3MrX/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
