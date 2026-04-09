@@ -1,35 +1,38 @@
-# Hi there, I'm Ha3MrX! 👋
+# Hi there! 👋 I'm Kurd Kali
 
-### 🌍 About Me
-- 📍 Based in **Iraq**
-- 💻 Passionate about **Networking, Cybersecurity, and Software Engineering**
-- 🎥 Creating content on **YouTube** to share knowledge with the community
+### 💻 Cyber Security • Ethical Hacking • Content Creator
 
-### 🧠 Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-</p>
+---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="mailto:ha.mrx.93@mail.ru">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-</a>
-<a href="https://www.youtube.com/@cybersecurity432" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
-</a>
-</p>
+## 🧑‍💻 About Me
+- 📍 Based in Iraq
+- 🔐 Passionate about Cyber Security & Ethical Hacking
+- 🎥 Sharing tutorials about Kali Linux & hacking
+- 🚀 Building my own cyber brand
 
-### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=radical" alt="Ha3MrX's GitHub stats" />
-</p>
+---
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ha3MrX&theme=radical" alt="Ha3MrX's streak" />
-</p>
+## 🧠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00C853?style=for-the-badge)
+
+---
+
+## 📺 My Content
+- 🎬 YouTube: Cyber Security Tutorials
+
+---
+
+## 🌐 Connect with Me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cybersecurity432)
+
+📧 Email: mrx@mail.ru
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
