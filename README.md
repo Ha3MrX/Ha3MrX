@@ -1,38 +1,36 @@
-# Hi there! 👋 I'm Kurd Kali
-
-### 💻 Cyber Security • Ethical Hacking • Content Creator
+<h1 align="center">👨‍💻 Mohamad</h1>
+<h3 align="center">Cyber Security | Ethical Hacker | Content Creator</h3>
 
 ---
 
-## 🧑‍💻 About Me
-- 📍 Based in Iraq
-- 🔐 Passionate about Cyber Security & Ethical Hacking
-- 🎥 Sharing tutorials about Kali Linux & hacking
-- 🚀 Building my own cyber brand
+## 🚀 About Me
+- 📍 Based in Kurdistan  
+- 💻 Passionate about Cybersecurity  
+- 🎥 YouTube: https://www.youtube.com/@cybersecurity432  
 
 ---
 
 ## 🧠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00C853?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
+</p>
 
 ---
 
-## 📺 My Content
-- 🎬 YouTube: Cyber Security Tutorials
-
----
-
-## 🌐 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cybersecurity432)
-
-📧 Email: mrx@mail.ru
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.youtube.com/@cybersecurity432">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" />
+  </a>
+  <a href="mailto:mrx@mail.ru">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
