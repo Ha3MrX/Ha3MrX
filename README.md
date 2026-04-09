@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Kurd Kali ⚡</h1>
+<h1 align="center">⚡ Ha3MrX ⚡</h1>
 <h3 align="center">🛡️ Cyber Security | Ethical Hacker | Content Creator</h3>
 
 <p align="center">
@@ -36,11 +36,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=radical" alt="Ha3MrX's GitHub stats" />
 </p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ha3MrX&theme=radical" alt="Ha3MrX's streak" />
+</p>
+
 
 ---
 
