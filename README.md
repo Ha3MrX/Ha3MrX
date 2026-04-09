@@ -14,12 +14,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
 </p>
-
-## 🧠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
