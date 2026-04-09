@@ -1,19 +1,27 @@
-# Hi there, I'm Ha3MrX! 👋
+<h1 align="center">⚡ Kurd Kali ⚡</h1>
+<h3 align="center">🛡️ Cyber Security | Ethical Hacker | Content Creator</h3>
 
-### 🌍 About Me
-- 📍 Based in **Iraq**
-- 💻 Passionate about **Networking, Cybersecurity, and Software Engineering**
-- 🎥 Creating content on **YouTube** to share knowledge with the community
-
-### 🧠 Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Expert;Ethical+Hacker;Kali+Linux+User;Content+Creator" />
 </p>
+
+---
+
+## 🧑‍💻 About Me
+<p align="center">
+🔐 Passionate about Cyber Security <br>
+💻 Kali Linux & Ethical Hacking <br>
+🎥 YouTube Creator <br>
+🚀 Building my own cyber brand
+</p>
+
+---
+
+## 🧠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -28,11 +36,15 @@
 
 ---
 
-### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=radical" alt="Ha3MrX's GitHub stats" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ha3MrX&theme=radical" alt="Ha3MrX's streak" />
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
