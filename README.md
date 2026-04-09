@@ -18,10 +18,11 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="mailto:ha.mrx.93@mail.ru">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" style="vertical-align:middle" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@cybersecurity432" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="30" width="40" style="vertical-align:middle" />
 </a>
 </p>
 
