@@ -1,14 +1,19 @@
-<h1 align="center">👨‍💻 Mohamad</h1>
-<h3 align="center">Cyber Security | Ethical Hacker | Content Creator</h3>
+# Hi there, I'm Ha3MrX! 👋
 
----
+### 🌍 About Me
+- 📍 Based in **Iraq**
+- 💻 Passionate about **Networking, Cybersecurity, and Software Engineering**
+- 🎥 Creating content on **YouTube** to share knowledge with the community
 
-## 🚀 About Me
-- 📍 Based in Kurdistan  
-- 💻 Passionate about Cybersecurity  
-- 🎥 YouTube: https://www.youtube.com/@cybersecurity432  
-
----
+### 🧠 Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+</p>
 
 ## 🧠 Skills
 <p align="center">
