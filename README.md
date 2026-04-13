@@ -24,6 +24,12 @@
 
 ---
 
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ha3MrX&show_icons=true&theme=radical" alt="Ha3MrX's GitHub stats" />
+</p>
+
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.youtube.com/@cybersecurity432">
